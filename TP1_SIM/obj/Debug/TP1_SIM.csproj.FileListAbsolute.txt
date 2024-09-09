@@ -1,0 +1,88 @@
+C:\Users\gabri\source\repos\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\source\repos\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.Properties.Resources.resources
+C:\Users\gabri\source\repos\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.Resultado.resources
+C:\Users\gabri\source\repos\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\TP1_SIM\TP1_SIM\bin\Debug\TP1_SIM.exe.config
+C:\Users\gabri\source\repos\TP1_SIM\TP1_SIM\bin\Debug\TP1_SIM.exe
+C:\Users\gabri\source\repos\TP1_SIM\TP1_SIM\bin\Debug\TP1_SIM.pdb
+C:\Users\gabri\source\repos\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.exe
+C:\Users\gabri\source\repos\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.pdb
+C:\Users\gabri\source\repos\TP1_SIM\TP1_SIM\bin\Debug\MathNet.Numerics.dll
+C:\Users\gabri\source\repos\TP1_SIM\TP1_SIM\bin\Debug\MathNet.Numerics.xml
+C:\Users\gabri\source\repos\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.CopyComplete
+C:\Users\gabri\source\repos\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.Principal.resources
+C:\Users\gabri\OneDrive\Escritorio\TP1_SIM\TP1_SIM\bin\Debug\TP1_SIM.exe.config
+C:\Users\gabri\OneDrive\Escritorio\TP1_SIM\TP1_SIM\bin\Debug\TP1_SIM.exe
+C:\Users\gabri\OneDrive\Escritorio\TP1_SIM\TP1_SIM\bin\Debug\TP1_SIM.pdb
+C:\Users\gabri\OneDrive\Escritorio\TP1_SIM\TP1_SIM\bin\Debug\MathNet.Numerics.dll
+C:\Users\gabri\OneDrive\Escritorio\TP1_SIM\TP1_SIM\bin\Debug\MathNet.Numerics.xml
+C:\Users\gabri\OneDrive\Escritorio\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Escritorio\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Escritorio\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.Principal.resources
+C:\Users\gabri\OneDrive\Escritorio\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Escritorio\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.Resultado.resources
+C:\Users\gabri\OneDrive\Escritorio\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Escritorio\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Escritorio\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.exe
+C:\Users\gabri\OneDrive\Escritorio\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.pdb
+C:\Users\emartinez\Downloads\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\bin\Debug\TP1_SIM.exe.config
+C:\Users\emartinez\Downloads\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\bin\Debug\TP1_SIM.exe
+C:\Users\emartinez\Downloads\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\bin\Debug\TP1_SIM.pdb
+C:\Users\emartinez\Downloads\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\bin\Debug\MathNet.Numerics.dll
+C:\Users\emartinez\Downloads\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\bin\Debug\MathNet.Numerics.xml
+C:\Users\emartinez\Downloads\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.AssemblyReference.cache
+C:\Users\emartinez\Downloads\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.SuggestedBindingRedirects.cache
+C:\Users\emartinez\Downloads\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.Principal.resources
+C:\Users\emartinez\Downloads\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.Properties.Resources.resources
+C:\Users\emartinez\Downloads\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.Resultado.resources
+C:\Users\emartinez\Downloads\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.GenerateResource.cache
+C:\Users\emartinez\Downloads\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.CoreCompileInputs.cache
+C:\Users\emartinez\Downloads\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.CopyComplete
+C:\Users\emartinez\Downloads\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.exe
+C:\Users\emartinez\Downloads\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.pdb
+C:\Users\Pablo\Desktop\ING. SISTEMAS\4 CUARTO\SIM\TRABAJOS PRACTICOS\TP1\Ultima version\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\bin\Debug\TP1_SIM.exe.config
+C:\Users\Pablo\Desktop\ING. SISTEMAS\4 CUARTO\SIM\TRABAJOS PRACTICOS\TP1\Ultima version\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\bin\Debug\TP1_SIM.exe
+C:\Users\Pablo\Desktop\ING. SISTEMAS\4 CUARTO\SIM\TRABAJOS PRACTICOS\TP1\Ultima version\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\bin\Debug\TP1_SIM.pdb
+C:\Users\Pablo\Desktop\ING. SISTEMAS\4 CUARTO\SIM\TRABAJOS PRACTICOS\TP1\Ultima version\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\bin\Debug\MathNet.Numerics.dll
+C:\Users\Pablo\Desktop\ING. SISTEMAS\4 CUARTO\SIM\TRABAJOS PRACTICOS\TP1\Ultima version\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\bin\Debug\MathNet.Numerics.xml
+C:\Users\Pablo\Desktop\ING. SISTEMAS\4 CUARTO\SIM\TRABAJOS PRACTICOS\TP1\Ultima version\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\ING. SISTEMAS\4 CUARTO\SIM\TRABAJOS PRACTICOS\TP1\Ultima version\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.Distribuciones.resources
+C:\Users\Pablo\Desktop\ING. SISTEMAS\4 CUARTO\SIM\TRABAJOS PRACTICOS\TP1\Ultima version\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.Principal.resources
+C:\Users\Pablo\Desktop\ING. SISTEMAS\4 CUARTO\SIM\TRABAJOS PRACTICOS\TP1\Ultima version\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.Properties.Resources.resources
+C:\Users\Pablo\Desktop\ING. SISTEMAS\4 CUARTO\SIM\TRABAJOS PRACTICOS\TP1\Ultima version\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.Resultado.resources
+C:\Users\Pablo\Desktop\ING. SISTEMAS\4 CUARTO\SIM\TRABAJOS PRACTICOS\TP1\Ultima version\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\ING. SISTEMAS\4 CUARTO\SIM\TRABAJOS PRACTICOS\TP1\Ultima version\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\ING. SISTEMAS\4 CUARTO\SIM\TRABAJOS PRACTICOS\TP1\Ultima version\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.CopyComplete
+C:\Users\Pablo\Desktop\ING. SISTEMAS\4 CUARTO\SIM\TRABAJOS PRACTICOS\TP1\Ultima version\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.exe
+C:\Users\Pablo\Desktop\ING. SISTEMAS\4 CUARTO\SIM\TRABAJOS PRACTICOS\TP1\Ultima version\TP1_SIM\TP1_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.pdb
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP1_SIM\TP1_SIM\bin\Debug\TP1_SIM.exe.config
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP1_SIM\TP1_SIM\bin\Debug\TP1_SIM.exe
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP1_SIM\TP1_SIM\bin\Debug\TP1_SIM.pdb
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP1_SIM\TP1_SIM\bin\Debug\MathNet.Numerics.dll
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP1_SIM\TP1_SIM\bin\Debug\MathNet.Numerics.xml
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.Distribuciones.resources
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.exe
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.pdb
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP3_SIM\TP1_SIM\TP1_SIM\bin\Debug\TP1_SIM.exe.config
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP3_SIM\TP1_SIM\TP1_SIM\bin\Debug\TP1_SIM.exe
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP3_SIM\TP1_SIM\TP1_SIM\bin\Debug\TP1_SIM.pdb
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP3_SIM\TP1_SIM\TP1_SIM\bin\Debug\MathNet.Numerics.dll
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP3_SIM\TP1_SIM\TP1_SIM\bin\Debug\MathNet.Numerics.xml
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP3_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP3_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP3_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.Distribuciones.resources
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP3_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP3_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP3_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP3_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP3_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.exe
+C:\Users\gabri\OneDrive\Escritorio\TP3_SIM\TP3_SIM\TP1_SIM\TP1_SIM\obj\Debug\TP1_SIM.pdb

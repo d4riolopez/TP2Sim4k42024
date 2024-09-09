@@ -1,0 +1,42 @@
+C:\Users\Gabriel\Downloads\TP2_SIM\TP1_SIM\bin\Debug\TP1_SIM.exe.config
+C:\Users\Gabriel\Downloads\TP2_SIM\TP1_SIM\bin\Debug\TP1_SIM.exe
+C:\Users\Gabriel\Downloads\TP2_SIM\TP1_SIM\bin\Debug\TP1_SIM.pdb
+C:\Users\Gabriel\Downloads\TP2_SIM\TP1_SIM\bin\Debug\MathNet.Numerics.dll
+C:\Users\Gabriel\Downloads\TP2_SIM\TP1_SIM\bin\Debug\MathNet.Numerics.xml
+C:\Users\Gabriel\Downloads\TP2_SIM\TP1_SIM\obj\Debug\TP2_SIM.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Downloads\TP2_SIM\TP1_SIM\obj\Debug\TP2_SIM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Downloads\TP2_SIM\TP1_SIM\obj\Debug\TP1_SIM.Properties.Resources.resources
+C:\Users\Gabriel\Downloads\TP2_SIM\TP1_SIM\obj\Debug\TP2_SIM.csproj.GenerateResource.cache
+C:\Users\Gabriel\Downloads\TP2_SIM\TP1_SIM\obj\Debug\TP2_SIM.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Downloads\TP2_SIM\TP1_SIM\obj\Debug\TP2_SIM.csproj.CopyComplete
+C:\Users\Gabriel\Downloads\TP2_SIM\TP1_SIM\obj\Debug\TP1_SIM.exe
+C:\Users\Gabriel\Downloads\TP2_SIM\TP1_SIM\obj\Debug\TP1_SIM.pdb
+C:\Users\Gabriel\Downloads\TP2_SIM\TP1_SIM\obj\Debug\TP2_SIM.Distribuciones.resources
+C:\Users\54351\Desktop\Juan\SIM 2023\TP2_SIM\TP1_SIM\bin\Debug\TP1_SIM.exe.config
+C:\Users\54351\Desktop\Juan\SIM 2023\TP2_SIM\TP1_SIM\bin\Debug\TP1_SIM.exe
+C:\Users\54351\Desktop\Juan\SIM 2023\TP2_SIM\TP1_SIM\bin\Debug\TP1_SIM.pdb
+C:\Users\54351\Desktop\Juan\SIM 2023\TP2_SIM\TP1_SIM\bin\Debug\MathNet.Numerics.dll
+C:\Users\54351\Desktop\Juan\SIM 2023\TP2_SIM\TP1_SIM\bin\Debug\MathNet.Numerics.xml
+C:\Users\54351\Desktop\Juan\SIM 2023\TP2_SIM\TP1_SIM\obj\Debug\TP2_SIM.csproj.AssemblyReference.cache
+C:\Users\54351\Desktop\Juan\SIM 2023\TP2_SIM\TP1_SIM\obj\Debug\TP2_SIM.csproj.SuggestedBindingRedirects.cache
+C:\Users\54351\Desktop\Juan\SIM 2023\TP2_SIM\TP1_SIM\obj\Debug\TP2_SIM.Distribuciones.resources
+C:\Users\54351\Desktop\Juan\SIM 2023\TP2_SIM\TP1_SIM\obj\Debug\TP1_SIM.Properties.Resources.resources
+C:\Users\54351\Desktop\Juan\SIM 2023\TP2_SIM\TP1_SIM\obj\Debug\TP2_SIM.csproj.GenerateResource.cache
+C:\Users\54351\Desktop\Juan\SIM 2023\TP2_SIM\TP1_SIM\obj\Debug\TP2_SIM.csproj.CoreCompileInputs.cache
+C:\Users\54351\Desktop\Juan\SIM 2023\TP2_SIM\TP1_SIM\obj\Debug\TP2_SIM.csproj.CopyComplete
+C:\Users\54351\Desktop\Juan\SIM 2023\TP2_SIM\TP1_SIM\obj\Debug\TP1_SIM.exe
+C:\Users\54351\Desktop\Juan\SIM 2023\TP2_SIM\TP1_SIM\obj\Debug\TP1_SIM.pdb
+C:\Users\54351\Desktop\Juan\SIM 2023\TP's SIM\trabajo-practico-n-2\TP1_SIM\bin\Debug\TP1_SIM.exe.config
+C:\Users\54351\Desktop\Juan\SIM 2023\TP's SIM\trabajo-practico-n-2\TP1_SIM\bin\Debug\TP1_SIM.exe
+C:\Users\54351\Desktop\Juan\SIM 2023\TP's SIM\trabajo-practico-n-2\TP1_SIM\bin\Debug\TP1_SIM.pdb
+C:\Users\54351\Desktop\Juan\SIM 2023\TP's SIM\trabajo-practico-n-2\TP1_SIM\bin\Debug\MathNet.Numerics.dll
+C:\Users\54351\Desktop\Juan\SIM 2023\TP's SIM\trabajo-practico-n-2\TP1_SIM\bin\Debug\MathNet.Numerics.xml
+C:\Users\54351\Desktop\Juan\SIM 2023\TP's SIM\trabajo-practico-n-2\TP1_SIM\obj\Debug\TP2_SIM.csproj.AssemblyReference.cache
+C:\Users\54351\Desktop\Juan\SIM 2023\TP's SIM\trabajo-practico-n-2\TP1_SIM\obj\Debug\TP2_SIM.csproj.SuggestedBindingRedirects.cache
+C:\Users\54351\Desktop\Juan\SIM 2023\TP's SIM\trabajo-practico-n-2\TP1_SIM\obj\Debug\TP2_SIM.Distribuciones.resources
+C:\Users\54351\Desktop\Juan\SIM 2023\TP's SIM\trabajo-practico-n-2\TP1_SIM\obj\Debug\TP1_SIM.Properties.Resources.resources
+C:\Users\54351\Desktop\Juan\SIM 2023\TP's SIM\trabajo-practico-n-2\TP1_SIM\obj\Debug\TP2_SIM.csproj.GenerateResource.cache
+C:\Users\54351\Desktop\Juan\SIM 2023\TP's SIM\trabajo-practico-n-2\TP1_SIM\obj\Debug\TP2_SIM.csproj.CoreCompileInputs.cache
+C:\Users\54351\Desktop\Juan\SIM 2023\TP's SIM\trabajo-practico-n-2\TP1_SIM\obj\Debug\TP2_SIM.csproj.CopyComplete
+C:\Users\54351\Desktop\Juan\SIM 2023\TP's SIM\trabajo-practico-n-2\TP1_SIM\obj\Debug\TP1_SIM.exe
+C:\Users\54351\Desktop\Juan\SIM 2023\TP's SIM\trabajo-practico-n-2\TP1_SIM\obj\Debug\TP1_SIM.pdb
