@@ -40,3 +40,16 @@ C:\Users\54351\Desktop\Juan\SIM 2023\TP's SIM\trabajo-practico-n-2\TP1_SIM\obj\D
 C:\Users\54351\Desktop\Juan\SIM 2023\TP's SIM\trabajo-practico-n-2\TP1_SIM\obj\Debug\TP2_SIM.csproj.CopyComplete
 C:\Users\54351\Desktop\Juan\SIM 2023\TP's SIM\trabajo-practico-n-2\TP1_SIM\obj\Debug\TP1_SIM.exe
 C:\Users\54351\Desktop\Juan\SIM 2023\TP's SIM\trabajo-practico-n-2\TP1_SIM\obj\Debug\TP1_SIM.pdb
+C:\Users\dario\Source\Repos\TP2Sim4k42024\TP1_SIM\bin\Debug\TP1_SIM.exe.config
+C:\Users\dario\Source\Repos\TP2Sim4k42024\TP1_SIM\bin\Debug\TP1_SIM.exe
+C:\Users\dario\Source\Repos\TP2Sim4k42024\TP1_SIM\bin\Debug\TP1_SIM.pdb
+C:\Users\dario\Source\Repos\TP2Sim4k42024\TP1_SIM\bin\Debug\MathNet.Numerics.dll
+C:\Users\dario\Source\Repos\TP2Sim4k42024\TP1_SIM\bin\Debug\MathNet.Numerics.xml
+C:\Users\dario\Source\Repos\TP2Sim4k42024\TP1_SIM\obj\Debug\TP2_SIM.csproj.AssemblyReference.cache
+C:\Users\dario\Source\Repos\TP2Sim4k42024\TP1_SIM\obj\Debug\TP2_SIM.Distribuciones.resources
+C:\Users\dario\Source\Repos\TP2Sim4k42024\TP1_SIM\obj\Debug\TP1_SIM.Properties.Resources.resources
+C:\Users\dario\Source\Repos\TP2Sim4k42024\TP1_SIM\obj\Debug\TP2_SIM.csproj.GenerateResource.cache
+C:\Users\dario\Source\Repos\TP2Sim4k42024\TP1_SIM\obj\Debug\TP2_SIM.csproj.CoreCompileInputs.cache
+C:\Users\dario\Source\Repos\TP2Sim4k42024\TP1_SIM\obj\Debug\TP2_SIM.csproj.CopyComplete
+C:\Users\dario\Source\Repos\TP2Sim4k42024\TP1_SIM\obj\Debug\TP1_SIM.exe
+C:\Users\dario\Source\Repos\TP2Sim4k42024\TP1_SIM\obj\Debug\TP1_SIM.pdb

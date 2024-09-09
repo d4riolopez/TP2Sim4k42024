@@ -101,7 +101,7 @@ namespace TP2_SIM
             this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label14.Location = new System.Drawing.Point(254, 742);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(161, 16);
+            this.label14.Size = new System.Drawing.Size(162, 16);
             this.label14.TabIndex = 26;
             this.label14.Text = "Montini, Sebastian - 76630";
             // 
@@ -112,7 +112,7 @@ namespace TP2_SIM
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(52, 742);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(160, 16);
+            this.label6.Size = new System.Drawing.Size(161, 16);
             this.label6.TabIndex = 25;
             this.label6.Text = "Floreano, Micaela - 72276";
             // 
@@ -165,9 +165,9 @@ namespace TP2_SIM
             this.btn_simular.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_simular.BackColor = System.Drawing.Color.Transparent;
             this.btn_simular.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_simular.Location = new System.Drawing.Point(929, 65);
+            this.btn_simular.Location = new System.Drawing.Point(924, 65);
             this.btn_simular.Name = "btn_simular";
-            this.btn_simular.Size = new System.Drawing.Size(135, 26);
+            this.btn_simular.Size = new System.Drawing.Size(140, 26);
             this.btn_simular.TabIndex = 20;
             this.btn_simular.Text = "Simular";
             this.btn_simular.UseVisualStyleBackColor = false;
@@ -177,7 +177,7 @@ namespace TP2_SIM
             // 
             this.txt_hasta.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(80)))), ((int)(((byte)(80)))), ((int)(((byte)(100)))));
             this.txt_hasta.ForeColor = System.Drawing.SystemColors.Info;
-            this.txt_hasta.Location = new System.Drawing.Point(73, 92);
+            this.txt_hasta.Location = new System.Drawing.Point(216, 100);
             this.txt_hasta.Mask = "999999999999";
             this.txt_hasta.Name = "txt_hasta";
             this.txt_hasta.Size = new System.Drawing.Size(109, 20);
@@ -188,7 +188,7 @@ namespace TP2_SIM
             // 
             this.label11.AutoSize = true;
             this.label11.BackColor = System.Drawing.Color.Transparent;
-            this.label11.Location = new System.Drawing.Point(73, 76);
+            this.label11.Location = new System.Drawing.Point(213, 84);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(38, 13);
             this.label11.TabIndex = 15;
@@ -198,7 +198,7 @@ namespace TP2_SIM
             // 
             this.txt_desde.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(80)))), ((int)(((byte)(80)))), ((int)(((byte)(100)))));
             this.txt_desde.ForeColor = System.Drawing.SystemColors.Info;
-            this.txt_desde.Location = new System.Drawing.Point(216, 43);
+            this.txt_desde.Location = new System.Drawing.Point(77, 100);
             this.txt_desde.Mask = "999999999999";
             this.txt_desde.Name = "txt_desde";
             this.txt_desde.Size = new System.Drawing.Size(109, 20);
@@ -209,7 +209,7 @@ namespace TP2_SIM
             // 
             this.label10.AutoSize = true;
             this.label10.BackColor = System.Drawing.Color.Transparent;
-            this.label10.Location = new System.Drawing.Point(216, 27);
+            this.label10.Location = new System.Drawing.Point(74, 84);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(41, 13);
             this.label10.TabIndex = 16;
@@ -219,7 +219,7 @@ namespace TP2_SIM
             // 
             this.txt_muestra.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(80)))), ((int)(((byte)(80)))), ((int)(((byte)(100)))));
             this.txt_muestra.ForeColor = System.Drawing.SystemColors.Info;
-            this.txt_muestra.Location = new System.Drawing.Point(76, 44);
+            this.txt_muestra.Location = new System.Drawing.Point(76, 49);
             this.txt_muestra.Mask = "999999999999";
             this.txt_muestra.Name = "txt_muestra";
             this.txt_muestra.Size = new System.Drawing.Size(109, 20);
@@ -230,7 +230,7 @@ namespace TP2_SIM
             // 
             this.label9.AutoSize = true;
             this.label9.BackColor = System.Drawing.Color.Transparent;
-            this.label9.Location = new System.Drawing.Point(70, 27);
+            this.label9.Location = new System.Drawing.Point(72, 30);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(115, 13);
             this.label9.TabIndex = 17;
@@ -240,7 +240,7 @@ namespace TP2_SIM
             // 
             this.label5.AutoSize = true;
             this.label5.BackColor = System.Drawing.Color.Transparent;
-            this.label5.Location = new System.Drawing.Point(216, 76);
+            this.label5.Location = new System.Drawing.Point(213, 30);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(115, 13);
             this.label5.TabIndex = 18;
@@ -251,7 +251,7 @@ namespace TP2_SIM
             this.cmb_intervalos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(80)))), ((int)(((byte)(80)))), ((int)(((byte)(100)))));
             this.cmb_intervalos.ForeColor = System.Drawing.SystemColors.Info;
             this.cmb_intervalos.FormattingEnabled = true;
-            this.cmb_intervalos.Location = new System.Drawing.Point(219, 92);
+            this.cmb_intervalos.Location = new System.Drawing.Point(215, 47);
             this.cmb_intervalos.Name = "cmb_intervalos";
             this.cmb_intervalos.Size = new System.Drawing.Size(110, 21);
             this.cmb_intervalos.TabIndex = 19;
@@ -552,7 +552,7 @@ namespace TP2_SIM
             this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label16.Location = new System.Drawing.Point(851, 693);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(166, 16);
+            this.label16.Size = new System.Drawing.Size(167, 16);
             this.label16.TabIndex = 37;
             this.label16.Text = "94091 - Nadia Denis Elwart";
             // 
@@ -563,7 +563,7 @@ namespace TP2_SIM
             this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label15.Location = new System.Drawing.Point(851, 715);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(190, 16);
+            this.label15.Size = new System.Drawing.Size(191, 16);
             this.label15.TabIndex = 36;
             this.label15.Text = "77461 - Emanuel Fabián Orona";
             // 
@@ -574,7 +574,7 @@ namespace TP2_SIM
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.Location = new System.Drawing.Point(851, 672);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(138, 16);
+            this.label12.Size = new System.Drawing.Size(139, 16);
             this.label12.TabIndex = 35;
             this.label12.Text = "76822 - Lucas Niveyro";
             // 
@@ -585,7 +585,7 @@ namespace TP2_SIM
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label13.Location = new System.Drawing.Point(851, 647);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(142, 16);
+            this.label13.Size = new System.Drawing.Size(143, 16);
             this.label13.TabIndex = 34;
             this.label13.Text = "70989 - Tomas Romeu";
             // 
@@ -596,7 +596,7 @@ namespace TP2_SIM
             this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label17.Location = new System.Drawing.Point(850, 625);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(188, 16);
+            this.label17.Size = new System.Drawing.Size(189, 16);
             this.label17.TabIndex = 33;
             this.label17.Text = "57837 - Gabriel Osmar Palacio";
             // 
@@ -607,7 +607,7 @@ namespace TP2_SIM
             this.label18.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label18.Location = new System.Drawing.Point(851, 604);
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(156, 16);
+            this.label18.Size = new System.Drawing.Size(157, 16);
             this.label18.TabIndex = 32;
             this.label18.Text = "77033 - Juan Cruz Peralta";
             // 
@@ -616,7 +616,7 @@ namespace TP2_SIM
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(80)))), ((int)(((byte)(80)))), ((int)(((byte)(100)))));
-            this.ClientSize = new System.Drawing.Size(1104, 739);
+            this.ClientSize = new System.Drawing.Size(1104, 630);
             this.Controls.Add(this.label16);
             this.Controls.Add(this.label15);
             this.Controls.Add(this.grid_resultados);
